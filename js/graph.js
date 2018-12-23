@@ -70,7 +70,7 @@ function init() {
                     button += "</p>";
                 } else {
                     button += "<a href='" + node.data.url + "' target='_blank' class='btn btn-primary'>";
-                    button += "Check it out!";
+                    button += "Saiba mais";
                     button += "</a>";
                 }
             }
